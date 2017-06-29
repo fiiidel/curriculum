@@ -1,0 +1,92 @@
+h1,h2 {
+  color: rgb(228, 74, 25);
+}
+
+body {
+  background-color:rgb(215, 154, 72) ;
+}
+#botonera{
+  float:left;
+  width:22%;
+  position: fixed;
+
+}
+#contenido{
+  float:right;
+  width: 75%;
+  box-shadow: 0px -6px 87px black;
+}
+
+ul{
+  border: 3px solid red;
+  text-transform: capitalize;
+  border-radius: 10px;
+}
+h3{
+  border-bottom: 2px dotted rgb(228, 126, 104);
+  clear: both;
+}
+
+#presentacion {
+  color: rgb(54, 111, 163);
+}
+
+#formacion{
+  color: rgb(33, 158, 30);
+}
+
+#experiencia{
+  color: rgb(122, 88, 10);
+}
+
+#portafolio{
+  color: rgb(250, 37, 0);
+}
+
+.presentacion{
+  color: rgb(54, 111, 163);
+  font-size: 19px;
+}
+
+.formacion{
+  color: rgb(33, 158, 30);
+  font-size: 19px;
+}
+
+.experiencia{
+  color: rgb(122, 88, 10);
+  font-size: 19px;
+}
+
+img{
+  border: 5px solid black;
+  box-shadow: 0px -6px 87px black;
+}
+
+#primersector{
+  padding: 10px;
+  background-color: rgba(63, 184, 237, 0.6);
+  box-shadow: 0px -6px 87px black;
+}
+
+#segundosector{
+  padding: 10px;
+  background-color: rgba(63, 184, 237, 0.6);
+  box-shadow: 0px -6px 87px black;
+}
+
+#sectorcero{
+  padding: 10px;
+  background-color: rgba(63, 184, 237, 0.6);
+  box-shadow: 0px -6px 87px black;
+}
+
+#tercersector{
+  padding: 10px;
+  background-color: rgba(63, 184, 237, 0.6);
+  box-shadow: 0px -6px 87px black;
+}
+
+#elquetelleva{
+  box-shadow: 0px -6px 87px black;
+}
